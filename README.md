@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<h1> hello i am amit maurya </h1>
+<h1> hello i am Amit Maurya </h1>
