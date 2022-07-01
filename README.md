@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmaurya18&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaurya18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitmaurya18" alt="amitmaurya18" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/amit_maurya_18" target="blank"><img src="https://img.shields.io/twitter/follow/amit_maurya_18?logo=twitter&style=for-the-badge" alt="amit_maurya_18" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack , Data Structure & Algorithm**
