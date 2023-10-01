@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack , Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://amitmaurya18.github.io/portfolio/](https://amitmaurya18.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://amitmaurya18.github.io/portfolio/](amitmaurya18.github.io/myportofolio/)
 
 - 📫 How to reach me **amitmaurya.aps@gmail.com**
 
